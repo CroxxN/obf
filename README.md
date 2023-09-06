@@ -3,7 +3,9 @@
 
 ## How to run
 
-```cargo run -- file.bf```
+- 1) Install oxidized-brainfuck, and add it to your path
+
+- 2) ```obf file.bf```
 
 ## Working mechanism
 - ~in~finite tape

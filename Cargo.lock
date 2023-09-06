@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "markdown-parser"
+name = "oxidized-brainfuck"
 version = "0.1.0"
